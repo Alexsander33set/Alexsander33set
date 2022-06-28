@@ -36,13 +36,12 @@ Te convido aqui a conhecer um pouco mais sobre mim
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
-Aqui está um resumo de meu trabalho dentro desta plataforma:
-<div class='align'>
+<hr>
+<h2>Aqui está um resumo de meu trabalho dentro desta plataforma:</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact)](https://github.com/Alexsander33set)
 
-</div>
 
 
 
