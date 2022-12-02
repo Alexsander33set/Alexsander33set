@@ -17,7 +17,7 @@ Te convido aqui a conhecer um pouco mais sobre mim
 <hr>
 </div>
 
-<p>Atualmente(2022), tenho me identificado com a área front-end, onde me destaquei de meus colegas, mas estou em busca de novos conhecimentos com a tag: eL, EverLearning. Sempre com respeito e gratidão.</p>
+<p>Atualmente(2022), tenho me identificado com a área frontend, onde me destaquei de meus colegas, mas estou em busca de novos conhecimentos com a tag: eL, EverLearning. Sempre com respeito e gratidão.</p>
 <hr>
 
 <div>
@@ -26,14 +26,15 @@ Te convido aqui a conhecer um pouco mais sobre mim
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 
 <hr>
 </div>
 <div>
-<h3>Mas também pretendo aprender mais sobre:</h3>
+<h3>Além destas, estou aprendendendo mais sobre:</h3>
 
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
 
 <hr>
