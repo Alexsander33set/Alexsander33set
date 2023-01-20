@@ -17,7 +17,7 @@ Te convido aqui a conhecer um pouco mais sobre mim
 <hr>
 </div>
 
-<p>Atualmente(2022), tenho me identificado com a área frontend, onde me destaquei de meus colegas, mas estou em busca de novos conhecimentos com a tag: eL, EverLearning. Sempre com respeito e gratidão.</p>
+<p>Atualmente trabalho junto a IBM como estagiário ajudando minha equipe e buscando adquirir e me aprofundar em novos conhecimentos com a tag: eL, EverLearning. Sempre com respeito e gratidão. </p><p>Por aqui você não verá muitos projetos, mas aos poucos estou os desenvolvendo com cuidado, pois quanto mais sei, mais "sei que nada sei".</p>
 <hr>
 
 <div>
@@ -45,7 +45,7 @@ Te convido aqui a conhecer um pouco mais sobre mim
 
 
 
-
+![Snake animation](https://github.com/Alexsander33set/Alexsander33set/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 <h3>Agradeço pela atenção! espero que eu tenha te ajudado!</h3>
