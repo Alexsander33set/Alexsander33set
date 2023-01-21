@@ -40,10 +40,11 @@ Te convido aqui a conhecer um pouco mais sobre mim
 <hr>
 <h2>Aqui está um resumo de meu trabalho dentro desta plataforma:</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact)](https://github.com/Alexsander33set)
-
-
+<div align="center" >
+  <a href="#">
+  <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ![Snake animation](https://github.com/Alexsander33set/Alexsander33set/blob/output/github-contribution-grid-snake.svg)
 
