@@ -4,46 +4,43 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... alexsander.patrick@gmail.com -->
 
-<h2>Olá!😉👍<br>
-Prazer, sou <i>Alexsander P.F. Santos</i> </h2>
-Te convido aqui a conhecer um pouco mais sobre mim
-
+## Olá!😉👍<br>Prazer, sou <i>Alexsander P.F. Santos</i>
+Te convido aqui a conhecer um pouco mais sobre mim:
+<br><a href="https://www.linkedin.com/in/alexsander-patrick-ferreira-santos-5ba0841ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:alexsander.patrick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div class='network'>
-<hr>
-
-<i class='nt-title'>&nbsp;&nbsp; Você também pode me encontrar no: </i>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-patrick-ferreira-santos-5ba0841ba)
-<i style='color:#1e90ff;'>& </i>[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsander.patrick@gmail.com)
-
-<hr>
 </div>
 
+#### Sobre
 <p>Atualmente trabalho junto a IBM como estagiário ajudando minha equipe e buscando adquirir e me aprofundar em novos conhecimentos com a tag: eL, EverLearning. Sempre com respeito e gratidão. </p><p>Por aqui você não verá muitos projetos, mas aos poucos estou os desenvolvendo com cuidado, pois quanto mais sei, mais "sei que nada sei".</p>
-<hr>
+
 
 <div>
-<h3>Tenho conhecimento em:</h3>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+#### Tenho conhecimento em:
+
+<div style="display:inline-block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- <img align="center" alt="Nikas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <!-- <img align="center" alt="C sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nikas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> -->
+</div>
 
 <hr>
 </div>
+
 <div>
-<h3>Além destas, estou aprendendendo mais sobre:</h3>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</div>
-
-<hr>
 <h2>Aqui está um resumo de meu trabalho dentro desta plataforma:</h2>
 
 <div align="center" >
   <a href="#">
   <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![Snake animation](https://github.com/Alexsander33set/Alexsander33set/blob/output/github-contribution-grid-snake.svg)
