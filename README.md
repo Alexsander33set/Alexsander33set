@@ -45,7 +45,6 @@ Te convido aqui a conhecer um pouco mais sobre mim:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/Alexsander33set/Alexsander33set/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 <h3>Agradeço pela atenção! espero que eu tenha te ajudado!</h3>
