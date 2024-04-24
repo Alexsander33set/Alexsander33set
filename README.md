@@ -36,24 +36,9 @@ Te convido aqui a conhecer um pouco mais sobre mim:
 <hr>
 </div>
 
-<div>
-<h2>Aqui está um resumo de meu trabalho dentro desta plataforma:</h2>
 
 <div align="center" >
   <a href="#">
-  <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
-<hr>
-<h3>Agradeço pela atenção! espero que eu tenha te ajudado!</h3>
-d=====(￣▽￣*)b
-
-
-<!--
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-    *{font-family:"poppins",system-ui,sans-serif;}
-</style>
--->
