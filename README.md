@@ -11,8 +11,6 @@
 
 ### Skills
 
-[]()
-
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -49,8 +47,9 @@
 
 <div align="center" >
   <a href="#">
-  <img height="180em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark"/>
+    <img height="200em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true&theme=dark" alt="Alexsander33set's GitHub stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=en&title_color=0891b2&text_color=ffffff" alt="Top Languages"/>
+  <a/>
 </div>
 
 
