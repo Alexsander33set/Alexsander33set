@@ -47,8 +47,8 @@
 
 <div align="center" >
   <a href="#">
-    <img height="200em" style="margin: 0 25px;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true&theme=dark" alt="Alexsander33set's GitHub stats" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=en&title_color=0891b2&text_color=ffffff" alt="Top Languages"/>
+    <img height="180em" style="margin: 0 1.5em;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true&theme=dark" alt="Alexsander33set's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=en&title_color=0891b2&text_color=ffffff" alt="Top Languages"/>
   <a/>
 </div>
 
