@@ -1,4 +1,4 @@
-# Hi !😉👍My name is Alexsander P.F. Santos
+# Hi! My name is Alexsander P.F. Santos
 
 ## Full Stack Developer and DevOps
 
