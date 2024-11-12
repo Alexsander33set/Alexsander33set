@@ -7,7 +7,7 @@
 - ✉️  You can contact me at [alexsander.patrick@gmail.com](mailto:alexsander.patrick@gmail.com)
 - 🚀  I'm currently working on a [restaurant page](https://villamartins.top)
 - 🧠  I'm learning authentication and autorization
-- 🤝  I'm open to collaborating on JavaScript and Python projects
+- 🤝  I'm open to collaborate, let's talk!
 
 ### Skills
 
