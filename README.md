@@ -5,8 +5,8 @@
 - 🌍  I'm based in Brazil
 - 🖥️  See my portfolio at [My Portfolio](https://apfs.com.br)
 - ✉️  You can contact me at [alexsander.patrick@gmail.com](mailto:alexsander.patrick@gmail.com)
-- 🚀  I'm currently working on a [restaurant page](https://villamartins.top)
-- 🧠  I'm learning authentication and autorization
+<!-- - 🚀  I'm currently working on a [restaurant page](https://villamartins.top) -->
+- 🧠  I'm learning about VPS deployments
 - 🤝  I'm open to collaborate, let's talk!
 
 ### Skills
