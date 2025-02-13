@@ -3,9 +3,9 @@
 ## Full Stack and DevOps Developer
 
 - 🌍  I'm based in Brazil
-- 🖥️  See my portfolio at [My Portfolio](https://apfs.com.br)
+- 🖥️  See my portfolio at [apfs.com.br](https://apfs.com.br)
 - ✉️  You can contact me at [alexsander.patrick@gmail.com](mailto:alexsander.patrick@gmail.com)
-- 🧠  I'm learning about VPS deployments
+- 🧠  I'm learning about React with NextJS
 - 🤝  I'm open to collaborate, let's talk!
 <!-- - 🚀  I'm currently working on a [restaurant page](https://villamartins.top) -->
 
