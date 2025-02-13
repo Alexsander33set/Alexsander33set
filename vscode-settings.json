@@ -1,0 +1,160 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "symbols",
+  "workbench.editor.labelFormat": "short",
+  "workbench.tree.indent": 16,
+  "editor.indentSize": "tabSize",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'FiraCode Nerd Font','Fira Code','Cascadia Code',Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.6,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.renderLineHighlight": "gutter",
+  "editor.rulers": [80, 120],
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".pane-header": "padding: 0 8px"
+  },
+  "apc.header": {
+    "height": 36
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock*, .eslint*, prettier*, .prettierrc*, tsconfig*, vite*, pnpm-lock*, yarn*,.yarn*,jsconfig.json,components.json,tailwind.*, postcss.config*",
+    ".env": ".env*"
+  },
+  "breadcrumbs.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.validate": ["javascript"],
+
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.suggest.paths": false,
+  "typescript.suggest.paths": false,
+  "files.associations": {
+    ".env.*": "dotenv",
+    ".prettierrc": "json",
+    "*.css": "css",
+    "*.lock": "json"
+  },
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "serverUrl": "https://sonarqube.apps.wdc-sonar-prod.core.cirrus.ibm.com",
+      "connectionId": "VSC Conn"
+    }
+  ],
+  "sonarlint.rules": {
+    "javascript:S125": {
+      "level": "off"
+    },
+    "Web:AvoidCommentedOutCodeCheck": {
+      "level": "off"
+    }
+  },
+  "hediet.vscode-drawio.resizeImages": null,
+  "errorLens.enabledDiagnosticLevels": ["error", "info"],
+  "errorLens.enabled": true,
+
+  // "vetur.validation.template": false,
+  // "vetur.validation.script": false,
+  // "vetur.validation.style": false,
+  "github-enterprise.uri": "https://github.ibm.com/",
+  "cSpell.userWords": [
+    "apro",
+    "axios",
+    "bluepages",
+    "byoi",
+    "Caio",
+    "Cascadia",
+    "categ",
+    "cloudant",
+    "Consolas",
+    "donot",
+    "dotenv",
+    "drawio",
+    "esbenp",
+    "Fira",
+    "hediet",
+    "hotspots",
+    "HRGMS",
+    "IAST",
+    "Imap",
+    "jsonify",
+    "materialdesignicons",
+    "oidc",
+    "pinia",
+    "Português",
+    "pycache",
+    "risos",
+    "rushstack",
+    "shadcn",
+    "showloader",
+    "sonarlint",
+    "sonarqube",
+    "springboot",
+    "Subtower",
+    "vetur",
+    "vuetify",
+    "werkzeug"
+  ],
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "symbols.hidesExplorerArrows": false,
+  "window.commandCenter": false,
+  "workbench.activityBar.location": "top",
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "redhat.telemetry.enabled": true,
+  "editor.linkedEditing": true,
+  "window.customTitleBarVisibility": "auto",
+"quokka.showStartViewOnFeatureRelease": false,
+  "python.terminal.activateEnvironment": true,
+  "eslint.codeActionsOnSave.mode": "problems",
+  "eslint.codeActionsOnSave.rules": null,
+  "diffEditor.hideUnchangedRegions.enabled": true,
+  "scm.experimental.showHistoryGraph": true,
+  "explorer.confirmDragAndDrop": false,
+  "update.mode": "manual",
+  "settingsSync.ignoredExtensions": [
+    "mend.mend-advise"
+  ],
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.reduceMotion": "off",
+  "terminal.integrated.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "editor.minimap.autohide": true,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "remote.SSH.remotePlatform": {
+    "46.202.150.39": "linux"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "npm.packageManager": "yarn",
+  "git.autofetch": true,
+  "editor.accessibilitySupport": "off",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+}
