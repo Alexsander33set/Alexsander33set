@@ -5,10 +5,9 @@
   "workbench.tree.indent": 16,
   "editor.indentSize": "tabSize",
   "editor.tabSize": 2,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "'FiraCode Nerd Font','Fira Code','Cascadia Code',Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 15,
   "editor.lineHeight": 1.6,
   "editor.scrollbar.horizontal": "hidden",
   "editor.renderLineHighlight": "gutter",
@@ -73,7 +72,6 @@
   // "vetur.validation.template": false,
   // "vetur.validation.script": false,
   // "vetur.validation.style": false,
-  "github-enterprise.uri": "https://github.ibm.com/",
   "cSpell.userWords": [
     "apro",
     "axios",
@@ -157,4 +155,7 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
+  "files.autoSaveDelay": 2000,
+  "go.toolsManagement.autoUpdate": true,
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
