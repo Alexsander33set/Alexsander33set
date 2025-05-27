@@ -51,20 +51,6 @@
     "*.css": "css",
     "*.lock": "json"
   },
-  "sonarlint.connectedMode.connections.sonarqube": [
-    {
-      "serverUrl": "https://sonarqube.apps.wdc-sonar-prod.core.cirrus.ibm.com",
-      "connectionId": "VSC Conn"
-    }
-  ],
-  "sonarlint.rules": {
-    "javascript:S125": {
-      "level": "off"
-    },
-    "Web:AvoidCommentedOutCodeCheck": {
-      "level": "off"
-    }
-  },
   "hediet.vscode-drawio.resizeImages": null,
   "errorLens.enabledDiagnosticLevels": ["error", "info"],
   "errorLens.enabled": true,
