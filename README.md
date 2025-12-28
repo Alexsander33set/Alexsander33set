@@ -48,15 +48,15 @@
 
 <div align="center" >
   <a href="#">
-    <img height="180em" style="margin: 0 1.5em;" src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&hide_border=true&theme=dark" alt="Alexsander33set's GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=en&title_color=0891b2" alt="Top Languages"/>
+    <img height="180em" style="margin: 0 1.5em;" src="https://grs.apfs.com.br/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&hide_border=true&theme=dark" alt="Alexsander33set's GitHub stats" />
+    <img height="180em" src="https://grs.apfs.com.br/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=en&title_color=0891b2" alt="Top Languages"/>
   <a/>
 </div>
 
 <!-- <b>My GitHub Stats</b>
 
 <div align="center" >
-<a href="http://www.github.com/Alexsander33set"><img src="https://github-readme-stats.vercel.app/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alexsander33set's GitHub stats" /></a>
-<a href="https://github.com/Alexsander33set" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsander33set&langs_count3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Alexsander33set"><img src="https://grs.apfs.com.br/api?username=Alexsander33set&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alexsander33set's GitHub stats" /></a>
+<a href="https://github.com/Alexsander33set" align="left"><img src="https://grs.apfs.com.br/api/top-langs/?username=Alexsander33set&langs_count3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div> -->
 
