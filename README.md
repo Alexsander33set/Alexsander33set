@@ -24,13 +24,26 @@
 
 **Frontend** · Vue.js · HTML · CSS · Jinja2 · TailwindCSS
 
-**Data** · PostgreSQL
+**Databases** · PostgreSQL · SQL Server · Cloudant (IBM)
 
-**Cloud & Infra** · Cloudflare · IBM Cloud · Azure · Docker · Linux
+**Cloud & Infra** · Cloudflare · IBM Cloud · Azure
+
+**Azure services** · Web Apps · Azure Functions · Logic Apps · Databricks · Data Storage · Key Vault (AKV) · VNETs
 
 **Platforms & Tools** · ServiceNow · Azure DevOps · Jira · Trello
 
 **Communication** · Slack · Microsoft Teams · Discord
+
+---
+
+## Self-hosted infrastructure
+
+Running a personal **Ubuntu 24 VPS** (Hostinger) in production for 1+ year, managing the full stack manually:
+
+- TLS certificates, HSTS, reverse proxy configuration
+- Multiple hosted applications and databases
+- Backup automation and domain management
+- For fun: ran a Minecraft modpack server (400+ mods) with update control, automated backups and custom domain
 
 ---
 
