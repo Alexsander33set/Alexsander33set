@@ -1,94 +1,52 @@
 # Alexsander P.F. Santos
 
-**Full Stack Developer** · Python · Flask · Vue · PostgreSQL · Docker
+**Full-stack developer · Python backend · Integrations & cloud applications**
 
-- 🌍 Based in Brazil
-- 🖥️ Portfolio: [apfs.com.br](https://apfs.com.br)
-- ✉️ [alexsander.patrick@gmail.com](mailto:alexsander.patrick@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alexsander-p-f-santos/) — reach out for networking or contributions
-- 🤝 Open to collaborate — let's talk!
+[Portfolio](https://apfs.com.br) · [LinkedIn](https://www.linkedin.com/in/alexsander-p-f-santos/) · [Email](mailto:alexsander.patrick@gmail.com)
 
----
+Based in Brazil, working in software development since December 2021, with experience at **IBM and AB InBev**. I build applications with Python, Flask and FastAPI, and develop interfaces with JavaScript and Vue.
 
-## Currently building
+I prefer systems that are straightforward to operate and maintain, with room to grow as demand changes. My work spans requirements discussions, interface design, implementation, testing and production support.
 
-**New version of [apfs.com.br](https://apfs.com.br)** — a full-featured personal portfolio with a **custom CMS built from scratch**: Flask + Jinja2 server-side rendering, SQLAlchemy, PostgreSQL, Cloudflare R2 for assets, Google OAuth, i18n with Flask-Babel, Docker. Deliberately low dependency footprint. Architecture documented with C4 Model and ERDs before a single line of code.
+## Selected experience
 
-> The current live site runs on the [legacy Vue.js version](https://github.com/Alexsander33set/legacy-portfolio) while the new platform is under development.
+- **Configurable integrations:** Designed the architecture, selected technologies and developed a platform connecting Azure DevOps and ServiceNow, with decisions reviewed by my manager. Built an orchestrator supporting dynamic forms, manual and scheduled execution, ticket-based conditions, prioritization, retries and configurable timeouts, with execution history in SQL Server. Tested low, expected and overload scenarios; approximately four clients had adopted it, each with at least three configured jobs, before I left.
+- **Cloud operations and security:** Maintained Azure applications, addressed vulnerabilities, configured VNETs and Private Endpoints, and integrated Microsoft Entra ID authentication. Held application ownership responsibilities and collected evidence for SOX controls.
+- **Engineering quality:** Maintained unit test coverage above 95% on projects I worked on, with SonarCloud analysis integrated into delivery pipelines.
 
----
+## Personal projects
 
-## Stack
+**Portfolio & custom CMS** · Building a new version of [apfs.com.br](https://apfs.com.br) with Flask, Jinja2, SQLAlchemy, PostgreSQL, Google OAuth, Cloudflare R2 and multilingual support. The live site currently uses the [earlier Vue implementation](https://github.com/Alexsander33set/legacy-portfolio).
 
-**Backend** · Python 3.14+ · Flask · SQLAlchemy · Flask-Babel · uv · Node.js · Express
+**Self-hosted applications** · Operate applications on a personal Linux VPS, including Plausible Analytics and [GitHub Readme Stats](https://grs.apfs.com.br/api?username=Alexsander33set&show_icons=true). Manage Docker services, reverse proxy configuration, TLS, domains and backups. Recently investigated attempted malware execution in a container, updated the vulnerable application and strengthened resource and privilege controls, with backups and post-maintenance checks.
 
-**Frontend** · Vue.js · HTML · CSS · Jinja2 · TailwindCSS
+For fun, I have also hosted a Minecraft server with 400+ mods, automated backups and a custom domain. I am looking for open-source projects where I can contribute code alongside feedback.
 
-**Databases** · PostgreSQL · SQL Server · Cloudant (IBM)
+## Main technologies
 
-**Cloud & Infra** · Cloudflare · IBM Cloud · Azure
+**Backend:** Python · Flask · FastAPI · SQLAlchemy
 
-**Azure services** · Web Apps · Azure Functions · Logic Apps · Databricks · Data Storage · Key Vault (AKV) · VNETs
+**Frontend:** JavaScript · HTML · CSS · Vue · Jinja2
 
-**Platforms & Tools** · ServiceNow · Azure DevOps · Jira · Trello
+**Data:** PostgreSQL · SQL Server · IBM Cloudant (NoSQL)
 
-**Communication** · Slack · Microsoft Teams · Discord
+**Cloud & operations:** Azure App Service · Functions · Key Vault · Databricks · Blob Storage / Data Lake · Docker · Linux · Cloudflare
 
----
+**Additional experience:** Azure DevOps · ServiceNow · IBM Cloud · watsonx
 
-## Self-hosted infrastructure
+## GitHub activity
 
-Running a personal **Ubuntu 24 VPS** (Hostinger) in production for 1+ year, managing the full stack manually:
+<details>
+<summary>Statistics · served by my own GitHub Readme Stats instance</summary>
 
-- TLS certificates, HSTS, reverse proxy configuration
-- Multiple hosted applications and databases
-- Backup automation and domain management
-- For fun: ran a Minecraft modpack server (400+ mods) with update control, automated backups and custom domain
-
----
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" /></a>
+<p>
+  <img src="https://grs.apfs.com.br/api?username=Alexsander33set&amp;show_icons=true&amp;count_private=true&amp;title_color=0891b2&amp;icon_color=0891b2&amp;hide_border=true&amp;theme=transparent" alt="Alexsander33set's GitHub statistics" />
+  <img src="https://grs.apfs.com.br/api/top-langs/?username=Alexsander33set&amp;layout=compact&amp;langs_count=7&amp;theme=transparent&amp;hide_border=true&amp;locale=en&amp;title_color=0891b2" alt="Languages represented in my GitHub repositories" />
 </p>
 
----
+</details>
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/Alexsander33set" target="_blank" rel="noreferrer">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexsander33set/Alexsander33set/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Alexsander33set/Alexsander33set/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contribution calendar" />
 </picture>
-</a>
-<a href="https://www.linkedin.com/in/alexsander-p-f-santos/" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</picture>
-</a>
-</p>
-
----
-
-### Stats
-
-<div align="center">
-  <img height="180em" style="margin: 0 1.5em;" src="https://grs.apfs.com.br/api?username=Alexsander33set&show_icons=true&count_private=true&title_color=0891b2&icon_color=0891b2&hide_border=true&theme=dark" alt="Alexsander33set's GitHub stats" />
-  <img height="180em" src="https://grs.apfs.com.br/api/top-langs/?username=Alexsander33set&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=en&title_color=0891b2" alt="Top Languages"/>
-</div>
